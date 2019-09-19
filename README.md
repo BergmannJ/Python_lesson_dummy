@@ -1,3 +1,4 @@
 # Python Lesson
+## Introduction
 Author: Jacqueline
-Date: 20190919
+Date: 2019-09-19
